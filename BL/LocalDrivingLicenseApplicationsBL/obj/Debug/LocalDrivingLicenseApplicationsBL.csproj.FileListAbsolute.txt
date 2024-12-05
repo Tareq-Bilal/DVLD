@@ -1,0 +1,9 @@
+D:\TAREQ\Course 19 - Full Real Project\DVLD\BL\LocalDrivingLicenseApplicationsBL\bin\Debug\LocalDrivingLicenseApplicationsBL.dll
+D:\TAREQ\Course 19 - Full Real Project\DVLD\BL\LocalDrivingLicenseApplicationsBL\bin\Debug\LocalDrivingLicenseApplicationsBL.pdb
+D:\TAREQ\Course 19 - Full Real Project\DVLD\BL\LocalDrivingLicenseApplicationsBL\bin\Debug\LocalDrivingLicenseApplicationsDL.dll
+D:\TAREQ\Course 19 - Full Real Project\DVLD\BL\LocalDrivingLicenseApplicationsBL\bin\Debug\LocalDrivingLicenseApplicationsDL.pdb
+D:\TAREQ\Course 19 - Full Real Project\DVLD\BL\LocalDrivingLicenseApplicationsBL\obj\Debug\LocalDrivingLicenseApplicationsBL.csproj.AssemblyReference.cache
+D:\TAREQ\Course 19 - Full Real Project\DVLD\BL\LocalDrivingLicenseApplicationsBL\obj\Debug\LocalDrivingLicenseApplicationsBL.csproj.CoreCompileInputs.cache
+D:\TAREQ\Course 19 - Full Real Project\DVLD\BL\LocalDrivingLicenseApplicationsBL\obj\Debug\LocalDrivingLicenseApplicationsBL.dll
+D:\TAREQ\Course 19 - Full Real Project\DVLD\BL\LocalDrivingLicenseApplicationsBL\obj\Debug\LocalDrivingLicenseApplicationsBL.pdb
+D:\TAREQ\Course 19 - Full Real Project\DVLD\BL\LocalDrivingLicenseApplicationsBL\obj\Debug\LocalDri.DE8B289A.Up2Date

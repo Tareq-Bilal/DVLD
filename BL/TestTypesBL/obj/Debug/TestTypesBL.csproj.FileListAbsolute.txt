@@ -1,0 +1,9 @@
+D:\TAREQ\Course 19 - Full Real Project\DVLD\BL\TestTypesBL\bin\Debug\TestTypesBL.dll
+D:\TAREQ\Course 19 - Full Real Project\DVLD\BL\TestTypesBL\bin\Debug\TestTypesBL.pdb
+D:\TAREQ\Course 19 - Full Real Project\DVLD\BL\TestTypesBL\bin\Debug\TestTypesDL.dll
+D:\TAREQ\Course 19 - Full Real Project\DVLD\BL\TestTypesBL\bin\Debug\TestTypesDL.pdb
+D:\TAREQ\Course 19 - Full Real Project\DVLD\BL\TestTypesBL\obj\Debug\TestTypesBL.csproj.AssemblyReference.cache
+D:\TAREQ\Course 19 - Full Real Project\DVLD\BL\TestTypesBL\obj\Debug\TestTypesBL.csproj.CoreCompileInputs.cache
+D:\TAREQ\Course 19 - Full Real Project\DVLD\BL\TestTypesBL\obj\Debug\TestTypesBL.dll
+D:\TAREQ\Course 19 - Full Real Project\DVLD\BL\TestTypesBL\obj\Debug\TestTypesBL.pdb
+D:\TAREQ\Course 19 - Full Real Project\DVLD\BL\TestTypesBL\obj\Debug\TestType.878B7207.Up2Date

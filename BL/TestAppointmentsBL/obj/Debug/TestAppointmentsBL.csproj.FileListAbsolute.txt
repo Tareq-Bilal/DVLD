@@ -1,0 +1,9 @@
+D:\TAREQ\Course 19 - Full Real Project\DVLD\BL\TestAppointmentsBL\bin\Debug\TestAppointmentsBL.dll
+D:\TAREQ\Course 19 - Full Real Project\DVLD\BL\TestAppointmentsBL\bin\Debug\TestAppointmentsBL.pdb
+D:\TAREQ\Course 19 - Full Real Project\DVLD\BL\TestAppointmentsBL\bin\Debug\TestAppointmentsDL.dll
+D:\TAREQ\Course 19 - Full Real Project\DVLD\BL\TestAppointmentsBL\bin\Debug\TestAppointmentsDL.pdb
+D:\TAREQ\Course 19 - Full Real Project\DVLD\BL\TestAppointmentsBL\obj\Debug\TestAppointmentsBL.csproj.AssemblyReference.cache
+D:\TAREQ\Course 19 - Full Real Project\DVLD\BL\TestAppointmentsBL\obj\Debug\TestAppointmentsBL.csproj.CoreCompileInputs.cache
+D:\TAREQ\Course 19 - Full Real Project\DVLD\BL\TestAppointmentsBL\obj\Debug\TestAppointmentsBL.dll
+D:\TAREQ\Course 19 - Full Real Project\DVLD\BL\TestAppointmentsBL\obj\Debug\TestAppointmentsBL.pdb
+D:\TAREQ\Course 19 - Full Real Project\DVLD\BL\TestAppointmentsBL\obj\Debug\TestAppo.CCEF40E8.Up2Date
