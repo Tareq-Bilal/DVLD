@@ -51,9 +51,17 @@ These features are designed to streamline the process of managing driver’s lic
 
 ### Manage Detained License
 ![Screenshot 2024-12-06 014722](https://github.com/user-attachments/assets/03ce7128-76db-4e31-810c-b4ad1d7f27c0)
+
+### Renew License
 ![Screenshot 2024-12-06 014824](https://github.com/user-attachments/assets/3c9513de-1e94-4eb3-883e-83f29bc3ec53)
+
+### Schedule Vision Test
 ![Screenshot 2024-12-06 015128](https://github.com/user-attachments/assets/6cfc404c-edc3-4bd6-8d83-f8c8a0b3f9a3)
+
+### Take Vision Test
 ![Screenshot 2024-12-06 015156](https://github.com/user-attachments/assets/aa1791fe-d7f9-4849-926c-51ca25a46450)
+
+### Replcae License For Gamage Or Lost
 ![Screenshot 2024-12-06 015334](https://github.com/user-attachments/assets/d0d6cb3a-edf9-4329-bd49-51d492eadc6f)
 
 
