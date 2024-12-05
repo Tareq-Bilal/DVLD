@@ -1,0 +1,9 @@
+D:\TAREQ\Course 19 - Full Real Project\DVLD\BL\ApplicationsBL\bin\Debug\ApplicationsBL.dll
+D:\TAREQ\Course 19 - Full Real Project\DVLD\BL\ApplicationsBL\bin\Debug\ApplicationsBL.pdb
+D:\TAREQ\Course 19 - Full Real Project\DVLD\BL\ApplicationsBL\bin\Debug\ApplicationsDL.dll
+D:\TAREQ\Course 19 - Full Real Project\DVLD\BL\ApplicationsBL\bin\Debug\ApplicationsDL.pdb
+D:\TAREQ\Course 19 - Full Real Project\DVLD\BL\ApplicationsBL\obj\Debug\ApplicationsBL.csproj.AssemblyReference.cache
+D:\TAREQ\Course 19 - Full Real Project\DVLD\BL\ApplicationsBL\obj\Debug\ApplicationsBL.csproj.CoreCompileInputs.cache
+D:\TAREQ\Course 19 - Full Real Project\DVLD\BL\ApplicationsBL\obj\Debug\ApplicationsBL.dll
+D:\TAREQ\Course 19 - Full Real Project\DVLD\BL\ApplicationsBL\obj\Debug\ApplicationsBL.pdb
+D:\TAREQ\Course 19 - Full Real Project\DVLD\BL\ApplicationsBL\obj\Debug\Applicat.B4D64F6C.Up2Date
