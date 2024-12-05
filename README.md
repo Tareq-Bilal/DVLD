@@ -61,7 +61,7 @@ These features are designed to streamline the process of managing driver’s lic
 ### Take Vision Test
 ![Screenshot 2024-12-06 015156](https://github.com/user-attachments/assets/aa1791fe-d7f9-4849-926c-51ca25a46450)
 
-### Replcae License For Gamage Or Lost
+### Replcae License For Damage Or Lost
 ![Screenshot 2024-12-06 015334](https://github.com/user-attachments/assets/d0d6cb3a-edf9-4329-bd49-51d492eadc6f)
 
 
