@@ -43,8 +43,13 @@ These features are designed to streamline the process of managing driver’s lic
 ### Login Screen
 ![Screenshot 2024-12-06 014431](https://github.com/user-attachments/assets/eb275cad-e0bf-43fd-a0ac-76e1d317329b)
 
+### License History
 ![Screenshot 2024-12-06 014619](https://github.com/user-attachments/assets/7c6228ec-465b-46c5-b503-6b224db62ac7)
+
+### Manage Local License Applicatoins
 ![Screenshot 2024-12-06 014657](https://github.com/user-attachments/assets/a2192de7-dcbe-4f85-a3e9-b66cd902a095)
+
+### Manage Detained License
 ![Screenshot 2024-12-06 014722](https://github.com/user-attachments/assets/03ce7128-76db-4e31-810c-b4ad1d7f27c0)
 ![Screenshot 2024-12-06 014824](https://github.com/user-attachments/assets/3c9513de-1e94-4eb3-883e-83f29bc3ec53)
 ![Screenshot 2024-12-06 015128](https://github.com/user-attachments/assets/6cfc404c-edc3-4bd6-8d83-f8c8a0b3f9a3)
