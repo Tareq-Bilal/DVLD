@@ -1,0 +1,6 @@
+D:\TAREQ\Course 19 - Full Real Project\CountriesDL\bin\Debug\CountriesDL.dll
+D:\TAREQ\Course 19 - Full Real Project\CountriesDL\bin\Debug\CountriesDL.pdb
+D:\TAREQ\Course 19 - Full Real Project\CountriesDL\obj\Debug\CountriesDL.csproj.AssemblyReference.cache
+D:\TAREQ\Course 19 - Full Real Project\CountriesDL\obj\Debug\CountriesDL.csproj.CoreCompileInputs.cache
+D:\TAREQ\Course 19 - Full Real Project\CountriesDL\obj\Debug\CountriesDL.dll
+D:\TAREQ\Course 19 - Full Real Project\CountriesDL\obj\Debug\CountriesDL.pdb

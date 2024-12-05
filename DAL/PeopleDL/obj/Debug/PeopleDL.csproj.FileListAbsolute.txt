@@ -1,0 +1,6 @@
+D:\TAREQ\Course 19 - Full Real Project\PeopleDL\bin\Debug\PeopleDL.dll
+D:\TAREQ\Course 19 - Full Real Project\PeopleDL\bin\Debug\PeopleDL.pdb
+D:\TAREQ\Course 19 - Full Real Project\PeopleDL\obj\Debug\PeopleDL.csproj.AssemblyReference.cache
+D:\TAREQ\Course 19 - Full Real Project\PeopleDL\obj\Debug\PeopleDL.csproj.CoreCompileInputs.cache
+D:\TAREQ\Course 19 - Full Real Project\PeopleDL\obj\Debug\PeopleDL.dll
+D:\TAREQ\Course 19 - Full Real Project\PeopleDL\obj\Debug\PeopleDL.pdb
