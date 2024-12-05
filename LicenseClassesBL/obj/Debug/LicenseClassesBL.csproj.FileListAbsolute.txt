@@ -1,9 +1,0 @@
-D:\TAREQ\Course 19 - Full Real Project\DVLD\BL\LicenseClassesBL\bin\Debug\LicenseClassesBL.dll
-D:\TAREQ\Course 19 - Full Real Project\DVLD\BL\LicenseClassesBL\bin\Debug\LicenseClassesBL.pdb
-D:\TAREQ\Course 19 - Full Real Project\DVLD\BL\LicenseClassesBL\bin\Debug\LicenseClassesDL.dll
-D:\TAREQ\Course 19 - Full Real Project\DVLD\BL\LicenseClassesBL\bin\Debug\LicenseClassesDL.pdb
-D:\TAREQ\Course 19 - Full Real Project\DVLD\BL\LicenseClassesBL\obj\Debug\LicenseClassesBL.csproj.AssemblyReference.cache
-D:\TAREQ\Course 19 - Full Real Project\DVLD\BL\LicenseClassesBL\obj\Debug\LicenseClassesBL.csproj.CoreCompileInputs.cache
-D:\TAREQ\Course 19 - Full Real Project\DVLD\BL\LicenseClassesBL\obj\Debug\LicenseClassesBL.dll
-D:\TAREQ\Course 19 - Full Real Project\DVLD\BL\LicenseClassesBL\obj\Debug\LicenseClassesBL.pdb
-D:\TAREQ\Course 19 - Full Real Project\DVLD\BL\LicenseClassesBL\obj\Debug\LicenseC.A715FAC1.Up2Date
