@@ -1,0 +1,9 @@
+D:\TAREQ\Course 19 - Full Real Project\CountriesBL\bin\Debug\CountriesBL.dll
+D:\TAREQ\Course 19 - Full Real Project\CountriesBL\bin\Debug\CountriesBL.pdb
+D:\TAREQ\Course 19 - Full Real Project\CountriesBL\bin\Debug\CountriesDL.dll
+D:\TAREQ\Course 19 - Full Real Project\CountriesBL\bin\Debug\CountriesDL.pdb
+D:\TAREQ\Course 19 - Full Real Project\CountriesBL\obj\Debug\CountriesBL.csproj.AssemblyReference.cache
+D:\TAREQ\Course 19 - Full Real Project\CountriesBL\obj\Debug\CountriesBL.csproj.CoreCompileInputs.cache
+D:\TAREQ\Course 19 - Full Real Project\CountriesBL\obj\Debug\CountriesBL.dll
+D:\TAREQ\Course 19 - Full Real Project\CountriesBL\obj\Debug\CountriesBL.pdb
+D:\TAREQ\Course 19 - Full Real Project\CountriesBL\obj\Debug\Countrie.A6592075.Up2Date

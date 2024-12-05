@@ -1,0 +1,9 @@
+D:\TAREQ\Course 19 - Full Real Project\PeopleBL\bin\Debug\PeopleBL.dll
+D:\TAREQ\Course 19 - Full Real Project\PeopleBL\bin\Debug\PeopleBL.pdb
+D:\TAREQ\Course 19 - Full Real Project\PeopleBL\bin\Debug\PeopleDL.dll
+D:\TAREQ\Course 19 - Full Real Project\PeopleBL\bin\Debug\PeopleDL.pdb
+D:\TAREQ\Course 19 - Full Real Project\PeopleBL\obj\Debug\PeopleBL.csproj.AssemblyReference.cache
+D:\TAREQ\Course 19 - Full Real Project\PeopleBL\obj\Debug\PeopleBL.csproj.CoreCompileInputs.cache
+D:\TAREQ\Course 19 - Full Real Project\PeopleBL\obj\Debug\PeopleBL.dll
+D:\TAREQ\Course 19 - Full Real Project\PeopleBL\obj\Debug\PeopleBL.pdb
+D:\TAREQ\Course 19 - Full Real Project\PeopleBL\obj\Debug\PeopleBL.csproj.Up2Date
