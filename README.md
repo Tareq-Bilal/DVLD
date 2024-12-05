@@ -35,8 +35,13 @@ The system must provide functionalities to manage user accounts, including:
 
 These features are designed to streamline the process of managing driver’s licenses while ensuring the system remains secure and efficient for both administrators and users.
 
+Main Screen
 ![Screenshot 2024-12-06 013608](https://github.com/user-attachments/assets/a2929eee-d3af-4116-b57f-b0280aaf7c35)
+
+Login Screen
 ![Screenshot 2024-12-06 014431](https://github.com/user-attachments/assets/eb275cad-e0bf-43fd-a0ac-76e1d317329b)
+
+
 ![Screenshot 2024-12-06 014619](https://github.com/user-attachments/assets/7c6228ec-465b-46c5-b503-6b224db62ac7)
 ![Screenshot 2024-12-06 014657](https://github.com/user-attachments/assets/a2192de7-dcbe-4f85-a3e9-b66cd902a095)
 ![Screenshot 2024-12-06 014722](https://github.com/user-attachments/assets/03ce7128-76db-4e31-810c-b4ad1d7f27c0)
