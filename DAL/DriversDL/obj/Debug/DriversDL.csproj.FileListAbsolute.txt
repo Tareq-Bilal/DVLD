@@ -1,0 +1,6 @@
+D:\TAREQ\Course 19 - Full Real Project\DVLD\DL\DriversDL\bin\Debug\DriversDL.dll
+D:\TAREQ\Course 19 - Full Real Project\DVLD\DL\DriversDL\bin\Debug\DriversDL.pdb
+D:\TAREQ\Course 19 - Full Real Project\DVLD\DL\DriversDL\obj\Debug\DriversDL.csproj.AssemblyReference.cache
+D:\TAREQ\Course 19 - Full Real Project\DVLD\DL\DriversDL\obj\Debug\DriversDL.csproj.CoreCompileInputs.cache
+D:\TAREQ\Course 19 - Full Real Project\DVLD\DL\DriversDL\obj\Debug\DriversDL.dll
+D:\TAREQ\Course 19 - Full Real Project\DVLD\DL\DriversDL\obj\Debug\DriversDL.pdb

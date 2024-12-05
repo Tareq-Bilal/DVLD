@@ -1,0 +1,6 @@
+D:\TAREQ\Course 19 - Full Real Project\DVLD\DL\ApplicationTypesDL\bin\Debug\ApplicationTypesDL.dll
+D:\TAREQ\Course 19 - Full Real Project\DVLD\DL\ApplicationTypesDL\bin\Debug\ApplicationTypesDL.pdb
+D:\TAREQ\Course 19 - Full Real Project\DVLD\DL\ApplicationTypesDL\obj\Debug\ApplicationTypesDL.csproj.AssemblyReference.cache
+D:\TAREQ\Course 19 - Full Real Project\DVLD\DL\ApplicationTypesDL\obj\Debug\ApplicationTypesDL.csproj.CoreCompileInputs.cache
+D:\TAREQ\Course 19 - Full Real Project\DVLD\DL\ApplicationTypesDL\obj\Debug\ApplicationTypesDL.dll
+D:\TAREQ\Course 19 - Full Real Project\DVLD\DL\ApplicationTypesDL\obj\Debug\ApplicationTypesDL.pdb
