@@ -1,0 +1,6 @@
+D:\TAREQ\Course 19 - Full Real Project\DVLD\DL\TestAppointmentsDL\bin\Debug\TestAppointmentsDL.dll
+D:\TAREQ\Course 19 - Full Real Project\DVLD\DL\TestAppointmentsDL\bin\Debug\TestAppointmentsDL.pdb
+D:\TAREQ\Course 19 - Full Real Project\DVLD\DL\TestAppointmentsDL\obj\Debug\TestAppointmentsDL.csproj.AssemblyReference.cache
+D:\TAREQ\Course 19 - Full Real Project\DVLD\DL\TestAppointmentsDL\obj\Debug\TestAppointmentsDL.csproj.CoreCompileInputs.cache
+D:\TAREQ\Course 19 - Full Real Project\DVLD\DL\TestAppointmentsDL\obj\Debug\TestAppointmentsDL.dll
+D:\TAREQ\Course 19 - Full Real Project\DVLD\DL\TestAppointmentsDL\obj\Debug\TestAppointmentsDL.pdb

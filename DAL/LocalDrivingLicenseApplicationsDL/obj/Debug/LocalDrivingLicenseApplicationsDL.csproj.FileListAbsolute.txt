@@ -1,0 +1,6 @@
+D:\TAREQ\Course 19 - Full Real Project\DVLD\DL\LocalDrivingLicenseApplicationsDL\bin\Debug\LocalDrivingLicenseApplicationsDL.dll
+D:\TAREQ\Course 19 - Full Real Project\DVLD\DL\LocalDrivingLicenseApplicationsDL\bin\Debug\LocalDrivingLicenseApplicationsDL.pdb
+D:\TAREQ\Course 19 - Full Real Project\DVLD\DL\LocalDrivingLicenseApplicationsDL\obj\Debug\LocalDrivingLicenseApplicationsDL.csproj.AssemblyReference.cache
+D:\TAREQ\Course 19 - Full Real Project\DVLD\DL\LocalDrivingLicenseApplicationsDL\obj\Debug\LocalDrivingLicenseApplicationsDL.csproj.CoreCompileInputs.cache
+D:\TAREQ\Course 19 - Full Real Project\DVLD\DL\LocalDrivingLicenseApplicationsDL\obj\Debug\LocalDrivingLicenseApplicationsDL.dll
+D:\TAREQ\Course 19 - Full Real Project\DVLD\DL\LocalDrivingLicenseApplicationsDL\obj\Debug\LocalDrivingLicenseApplicationsDL.pdb

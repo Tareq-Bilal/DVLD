@@ -1,0 +1,6 @@
+D:\TAREQ\Course 19 - Full Real Project\DVLD\DL\LicensesDL\bin\Debug\LicensesDL.dll
+D:\TAREQ\Course 19 - Full Real Project\DVLD\DL\LicensesDL\bin\Debug\LicensesDL.pdb
+D:\TAREQ\Course 19 - Full Real Project\DVLD\DL\LicensesDL\obj\Debug\LicensesDL.csproj.AssemblyReference.cache
+D:\TAREQ\Course 19 - Full Real Project\DVLD\DL\LicensesDL\obj\Debug\LicensesDL.csproj.CoreCompileInputs.cache
+D:\TAREQ\Course 19 - Full Real Project\DVLD\DL\LicensesDL\obj\Debug\LicensesDL.dll
+D:\TAREQ\Course 19 - Full Real Project\DVLD\DL\LicensesDL\obj\Debug\LicensesDL.pdb
