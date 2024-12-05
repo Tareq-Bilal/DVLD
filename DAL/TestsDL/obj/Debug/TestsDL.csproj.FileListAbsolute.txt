@@ -1,0 +1,6 @@
+D:\TAREQ\Course 19 - Full Real Project\DVLD\DL\TestsDL\bin\Debug\TestsDL.dll
+D:\TAREQ\Course 19 - Full Real Project\DVLD\DL\TestsDL\bin\Debug\TestsDL.pdb
+D:\TAREQ\Course 19 - Full Real Project\DVLD\DL\TestsDL\obj\Debug\TestsDL.csproj.AssemblyReference.cache
+D:\TAREQ\Course 19 - Full Real Project\DVLD\DL\TestsDL\obj\Debug\TestsDL.csproj.CoreCompileInputs.cache
+D:\TAREQ\Course 19 - Full Real Project\DVLD\DL\TestsDL\obj\Debug\TestsDL.dll
+D:\TAREQ\Course 19 - Full Real Project\DVLD\DL\TestsDL\obj\Debug\TestsDL.pdb
