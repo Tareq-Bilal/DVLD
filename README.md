@@ -1,7 +1,7 @@
 # DVLD
 
-##Driver's License Management System Features
-The tasks of the Driver's License Department vary from country to country, but generally, these departments share a set of common and essential responsibilities to regulate and manage the issuance of driver's licenses and ensure the safety of drivers on the road.
+## Driver's License Management System Features
+## The tasks of the Driver's License Department vary from country to country, but generally, these departments share a set of common and essential responsibilities to regulate and manage the issuance of driver's licenses and ensure the safety of drivers on the road.
 
 Here is a simplified list of the system's primary features and services: 
 
