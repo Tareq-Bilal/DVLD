@@ -1,0 +1,9 @@
+D:\TAREQ\Course 19 - Full Real Project\DVLD\BL\DetainedLicensesBL\bin\Debug\DetainedLicensesBL.dll
+D:\TAREQ\Course 19 - Full Real Project\DVLD\BL\DetainedLicensesBL\bin\Debug\DetainedLicensesBL.pdb
+D:\TAREQ\Course 19 - Full Real Project\DVLD\BL\DetainedLicensesBL\bin\Debug\DetainedLicensesDL.dll
+D:\TAREQ\Course 19 - Full Real Project\DVLD\BL\DetainedLicensesBL\bin\Debug\DetainedLicensesDL.pdb
+D:\TAREQ\Course 19 - Full Real Project\DVLD\BL\DetainedLicensesBL\obj\Debug\DetainedLicensesBL.csproj.AssemblyReference.cache
+D:\TAREQ\Course 19 - Full Real Project\DVLD\BL\DetainedLicensesBL\obj\Debug\DetainedLicensesBL.csproj.CoreCompileInputs.cache
+D:\TAREQ\Course 19 - Full Real Project\DVLD\BL\DetainedLicensesBL\obj\Debug\DetainedLicensesBL.dll
+D:\TAREQ\Course 19 - Full Real Project\DVLD\BL\DetainedLicensesBL\obj\Debug\DetainedLicensesBL.pdb
+D:\TAREQ\Course 19 - Full Real Project\DVLD\BL\DetainedLicensesBL\obj\Debug\Detained.463E1E60.Up2Date
