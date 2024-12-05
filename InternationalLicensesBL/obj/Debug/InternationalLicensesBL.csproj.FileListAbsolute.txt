@@ -1,9 +1,0 @@
-D:\TAREQ\Course 19 - Full Real Project\DVLD\BL\InternationalLicensesBL\bin\Debug\InternationalLicensesBL.dll
-D:\TAREQ\Course 19 - Full Real Project\DVLD\BL\InternationalLicensesBL\bin\Debug\InternationalLicensesBL.pdb
-D:\TAREQ\Course 19 - Full Real Project\DVLD\BL\InternationalLicensesBL\bin\Debug\InternationalLicensesDL.dll
-D:\TAREQ\Course 19 - Full Real Project\DVLD\BL\InternationalLicensesBL\bin\Debug\InternationalLicensesDL.pdb
-D:\TAREQ\Course 19 - Full Real Project\DVLD\BL\InternationalLicensesBL\obj\Debug\InternationalLicensesBL.csproj.AssemblyReference.cache
-D:\TAREQ\Course 19 - Full Real Project\DVLD\BL\InternationalLicensesBL\obj\Debug\InternationalLicensesBL.csproj.CoreCompileInputs.cache
-D:\TAREQ\Course 19 - Full Real Project\DVLD\BL\InternationalLicensesBL\obj\Debug\InternationalLicensesBL.dll
-D:\TAREQ\Course 19 - Full Real Project\DVLD\BL\InternationalLicensesBL\obj\Debug\InternationalLicensesBL.pdb
-D:\TAREQ\Course 19 - Full Real Project\DVLD\BL\InternationalLicensesBL\obj\Debug\Internat.DBB59965.Up2Date
